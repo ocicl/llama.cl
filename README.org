@@ -1,0 +1,9 @@
+* llama
+
+Inference Llama in Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/snunez1/llama.cl.git |
+| commit  | 01eabba                                     |
+| systems | llama                                       |
+|---------+---------------------------------------------|
