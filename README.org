@@ -4,6 +4,6 @@ Inference Llama in Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/snunez1/llama.cl.git |
-| commit  | 01eabba                                     |
+| commit  | f3068b0                                     |
 | systems | llama                                       |
 |---------+---------------------------------------------|
